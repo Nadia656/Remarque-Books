@@ -3,7 +3,7 @@ Erich Maria Remarque Books is a JS/HTML/CSS project which helps to find books of
 
 ## Usage
 
-Read the question and click the appropriate button.
+Start to enter letters to the input field and choose the book you like.
 
 ![Erich Maria Remarque](ReadMe.png)
 
