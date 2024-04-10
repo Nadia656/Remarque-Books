@@ -1,5 +1,5 @@
-# Wedding Dress
-Wedding Dress is a JS/HTML/CSS project which helps brides-to-be to find their dream wedding dress.
+# Remarque Books
+Erich Maria Remarque Books is a JS/HTML/CSS project which helps to find books of Erich Maria Remarque.
 
 ## Usage
 
